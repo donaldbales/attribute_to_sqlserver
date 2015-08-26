@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attribute_binary: 
+  attribute_boolean: false
+  attribute_date: 2015-08-26
+  attribute_datetime: 2015-08-26 15:17:20
+  attribute_decimal: 9.99
+  attribute_float: 1.5
+  attribute_integer: 1
+  attribute_reference_id: 
+  attribute_string: MyString
+  attribute_text: MyText
+  attribute_time: 2015-08-26 15:17:20
+
+two:
+  attribute_binary: 
+  attribute_boolean: false
+  attribute_date: 2015-08-26
+  attribute_datetime: 2015-08-26 15:17:20
+  attribute_decimal: 9.99
+  attribute_float: 1.5
+  attribute_integer: 1
+  attribute_reference_id: 
+  attribute_string: MyString
+  attribute_text: MyText
+  attribute_time: 2015-08-26 15:17:20

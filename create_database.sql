@@ -1,0 +1,2 @@
+create database attribute_to_sqlserver_development;
+go
